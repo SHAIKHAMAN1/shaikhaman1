@@ -1,8 +1,6 @@
 # 👋 Hey, I'm Shaikh Aman  
 🚀 Web Developer | 💡 CS & AI Enthusiast | 🔥 Lifelong Learner
 
-🚀 Web Developer | 💡 CS & AI Enthusiast | 🔥 Lifelong Learner
-
 I'm a passionate Computer Science & Engineering (AI & DS) student based in Pune, India. I love transforming ideas into modern, responsive, and user-friendly web applications. Whether it's front-end magic or back-end logic, I enjoy every part of the development journey.
 
 I’m always curious and exploring new technologies, striving to write clean, efficient code and build solutions that make an impact. My goal is to keep learning, keep improving, and contribute to projects that matter.
