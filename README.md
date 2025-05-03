@@ -35,7 +35,7 @@ A sleek, dynamic Next.js portfolio with smooth animations & modern design.
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amaan11) 
 
-  
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=shaikhaman1)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
