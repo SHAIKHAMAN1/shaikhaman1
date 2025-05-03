@@ -1,5 +1,17 @@
-# 💫 About Me:
-👋 Hey, I'm Shaikh Aman<br>🚀 Web Developer | 💡 CS & AI Enthusiast | 🔥 Lifelong Learner<br><br>I'm a passionate Computer Science & Engineering (AI & DS) student from Pune, India, driven by a love for crafting modern, responsive web applications and staying on the cutting edge of tech.<br><br>🛠️ Tech Stack<br>💻 Languages:<br>C++ · Python · JavaScript<br><br>🎨 Frontend:<br>React · Next.js · HTML · CSS · Tailwind CSS<br><br>🗄️ Backend:<br>Node.js · Express.js · MongoDB · MySQL · SQL<br><br>🔧 Tools:<br>Git & GitHub<br><br>🚩 Highlight Projects<br>🎧 Spotify Clone<br>A clean, responsive UI replicating Spotify, built with HTML, CSS & JavaScript.<br><br>🌐 Personal Portfolio<br>A sleek, dynamic Next.js portfolio with smooth animations & full responsiveness.<br>👉 View Live<br><br>🎯 Current Focus<br>🚀 Deepening my expertise in MERN Stack Development<br><br>📈 Learning best practices for web performance & scalability<br><br>🤝 Let’s Connect<br>GitHub: shaikhaman1<br><br>LinkedIn: Shaikh Aman
+👋 Hey, I'm Shaikh Aman
+🚀 Web Developer | 💡 CS & AI Enthusiast | 🔥 Lifelong Learner
+
+I'm a passionate Computer Science & Engineering (AI & DS) student based in Pune, India. I love transforming ideas into modern, responsive, and user-friendly web applications. Whether it's front-end magic or back-end logic, I enjoy every part of the development journey.
+
+I’m always curious and exploring new technologies, striving to write clean, efficient code and build solutions that make an impact. My goal is to keep learning, keep improving, and contribute to projects that matter.
+
+🚩 What I’ve Built
+🎧 Spotify Clone:
+A fully responsive UI inspired by Spotify, crafted with HTML, CSS & JavaScript.
+
+🌐 Personal Portfolio:
+A sleek, dynamic Next.js portfolio with smooth animations & modern design.
+👉 View Live
 
 
 ## 🌐 Socials:
