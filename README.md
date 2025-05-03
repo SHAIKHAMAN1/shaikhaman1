@@ -6,12 +6,13 @@ I'm a passionate Computer Science & Engineering (AI & DS) student based in Pune,
 I’m always curious and exploring new technologies, striving to write clean, efficient code and build solutions that make an impact. My goal is to keep learning, keep improving, and contribute to projects that matter.
 
 🚩 What I’ve Built
+
 🎧 Spotify Clone:
 A fully responsive UI inspired by Spotify, crafted with HTML, CSS & JavaScript.
 
 🌐 Personal Portfolio:
 A sleek, dynamic Next.js portfolio with smooth animations & modern design.
-👉 View Live
+
 
 
 ## 🌐 Socials:
